@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包产物
+build/
+dist/
+
+# 本地配置
+.invoice_ui_config.json
+
+# 测试与样例文件
+1.pdf
+2.pdf
+3.pdf
+4.pdf
+发票.pdf
+
+# 结果与测试表格
+*.xlsx
+*.xls
+
+# 仅保留 invoice_app.py 相关源码入口，其他非必要文件不建议上传
+invoice_ui.py

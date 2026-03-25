@@ -1,0 +1,15 @@
+发票识别工具商业授权说明
+
+Copyright (c) 2026
+All rights reserved.
+
+本项目采用双许可（Dual Licensing）模式发布：
+
+1. 开源使用：你可以按照 AGPL-3.0 的条款使用、修改和分发本项目，详见 `LICENSE-AGPL-3.0.txt`。
+2. 商业使用：如果你希望在不受 AGPL-3.0 约束的情况下进行闭源分发、商业集成、私有部署或再许可，请联系版权持有人获得商业授权。
+
+Commercial licensing contact: YOUR_EMAIL@example.com
+
+你后续只需要把上面这一行中的 `YOUR_EMAIL@example.com` 改成你的真实邮箱即可。
+
+除非你获得单独的书面商业授权，否则本项目的开源使用默认适用 AGPL-3.0。
